@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/geoseal/.github/main/brand/geoseal-mark.svg" width="180" alt="Geoseal — the seal balancing the pin"></p>
+
 # Geoseal
 
 **Verified presence as an API.** Geoseal confirms that a person or asset actually arrived at — and left — a physical place, using server-side double-geofence verification: device location fixes are treated as untrusted input, and enter/exit is confirmed by M-of-N sample agreement rather than a single GPS ping. Confirmed facts are delivered as HMAC-SHA-256-signed webhooks, and the platform is MCP-native — AI assistants can query places, subjects, presence, and visits directly over a live MCP server. Free during beta.
